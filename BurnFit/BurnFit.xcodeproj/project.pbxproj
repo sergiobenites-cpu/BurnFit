@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		605835BF3094A39300AA995B /* BurnFit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BurnFit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		605835BF3094A39300AA995B /* BurnFit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = BurnFit.app; path = "/Users/s2/Desktop/Lorenzo Ferrari SA-A/Progetto/BurnFit/BurnFit/build/Debug-iphoneos/BurnFit.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				605835C13094A39300AA995B /* BurnFit */,
-				605835C03094A39300AA995B /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		605835C03094A39300AA995B /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				605835BF3094A39300AA995B /* BurnFit.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 605835B63094A39200AA995B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 605835C03094A39300AA995B /* Products */;
+			productRefGroup = 605835B63094A39200AA995B;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
