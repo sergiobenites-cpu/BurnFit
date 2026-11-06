@@ -1,3 +1,5 @@
+import Foundation
+import SwiftData
 // MARK: - SessionSummary
 
 @Model
